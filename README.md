@@ -42,24 +42,18 @@
 | [coin-trading-bot](https://github.com/10000sukk/coin-trading-bot) | Cryptocurrency trading bot | Kotlin |
 | [jpashop](https://github.com/10000sukk/jpashop) | Spring Boot + JPA practice (Inflearn) | Kotlin, Spring Boot |
 | [leetcode](https://github.com/10000sukk/leetcode) | Algorithm problem solving practice | Multiple |
-| [Algorithm](https://github.com/10000sukk/Algorithm) | Algorithm study repository | Python |
 | [contoso-chat](https://github.com/10000sukk/contoso-chat) | End-to-end RAG chat sample | Python, Jupyter |
 
-## 📊 GitHub Stats
+## 📌 Currently Working On
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=10000sukk&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/10000sukk)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=10000sukk&layout=compact&theme=radical&hide_border=true)](https://github.com/10000sukk)
-
-</div>
+- 🪙 **Crypto arbitrage trading system** — Kotlin/Spring Boot, real-time market monitoring
+- 🏦 **Family finance tracker** — Go backend + MySQL
+- 🧰 **Auto repair shop OS** — full-stack with RAG-based knowledge base
 
 ---
 
 <div align="center">
 
 **Always learning, always building.**
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F10000sukk&count_bg=%237F52FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/10000sukk)
 
 </div>
