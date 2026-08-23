@@ -35,13 +35,6 @@
 | **Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 | **Data / ML** | ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black) ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 
-## 📌 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [contoso-chat](https://github.com/10000sukk/contoso-chat) | End-to-end RAG app: Prompt Flow + AI Studio, eval & deploy automation | Python, Prompt Flow, Azure AI Studio |
-| [leetcode](https://github.com/10000sukk/leetcode) | Algorithm & data structure problem solving | Python, SQL |
-| [jpashop](https://github.com/10000sukk/jpashop) | Spring Boot + JPA web app (Inflearn course) | Kotlin, Spring Boot, JPA |
 
 ## 📌 Currently Working On
 
