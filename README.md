@@ -39,10 +39,10 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [coin-trading-bot](https://github.com/10000sukk/coin-trading-bot) | Cryptocurrency trading bot | Kotlin |
-| [jpashop](https://github.com/10000sukk/jpashop) | Spring Boot + JPA practice (Inflearn) | Kotlin, Spring Boot |
-| [leetcode](https://github.com/10000sukk/leetcode) | Algorithm problem solving practice | Multiple |
-| [contoso-chat](https://github.com/10000sukk/contoso-chat) | End-to-end RAG chat sample | Python, Jupyter |
+| [coin-trading-bot](https://github.com/10000sukk/coin-trading-bot) | Cryptocurrency trading bot built with Spring Boot | Kotlin, Spring Boot |
+| [contoso-chat](https://github.com/10000sukk/contoso-chat) | End-to-end RAG app: Prompt Flow + AI Studio, eval & deploy automation | Python, Prompt Flow, Azure AI Studio |
+| [leetcode](https://github.com/10000sukk/leetcode) | Algorithm & data structure problem solving | Python, SQL |
+| [jpashop](https://github.com/10000sukk/jpashop) | Spring Boot + JPA web app (Inflearn course) | Kotlin, Spring Boot, JPA |
 
 ## 📌 Currently Working On
 
