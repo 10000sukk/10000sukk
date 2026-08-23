@@ -22,7 +22,7 @@
 - 🎓 **University of Seoul**, Computer Science (B.S.)
 - 🛠 **Backend specialist**: Java/Kotlin, Spring Boot, Go
 - 📊 **Data platforms**: MySQL, MongoDB, Redis, ClickHouse, Druid
-- 🪙 **Side projects**: crypto trading bot, arbitrage system, family finance tracker
+- 🪙 **Side projects**: arbitrage trading system, family finance tracker, RAG apps
 - 🌱 **Currently**: exploring quantitative crypto research & trading systems
 
 ## 🛠 Tech Stack
@@ -39,7 +39,6 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [coin-trading-bot](https://github.com/10000sukk/coin-trading-bot) | Cryptocurrency trading bot built with Spring Boot | Kotlin, Spring Boot |
 | [contoso-chat](https://github.com/10000sukk/contoso-chat) | End-to-end RAG app: Prompt Flow + AI Studio, eval & deploy automation | Python, Prompt Flow, Azure AI Studio |
 | [leetcode](https://github.com/10000sukk/leetcode) | Algorithm & data structure problem solving | Python, SQL |
 | [jpashop](https://github.com/10000sukk/jpashop) | Spring Boot + JPA web app (Inflearn course) | Kotlin, Spring Boot, JPA |
