@@ -22,7 +22,7 @@
 - 🎓 **University of Seoul**, Computer Science (B.S.)
 - 🛠 **Backend specialist**: Java/Kotlin, Spring Boot, Go
 - 📊 **Data platforms**: MySQL, MongoDB, Redis, ClickHouse, Druid
-- 🪙 **Side projects**: arbitrage trading system, family finance tracker, RAG apps
+- 🪙 **Side projects**: arbitrage trading system, family finance tracker
 - 🌱 **Currently**: exploring quantitative crypto research & trading systems
 
 ## 🛠 Tech Stack
