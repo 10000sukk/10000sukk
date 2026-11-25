@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="479" viewBox="0 0 860 479" role="img" aria-label="10000sukk — Backend Engineer">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#58A6FF"/><stop offset="1" stop-color="#FFB38A"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="859" height="478" rx="12" fill="#0F1420" stroke="#30363D"/>
+<path d="M12.5 0.5 H847.5 A12 12 0 0 1 859.5 12.5 V34 H0.5 V12.5 A12 12 0 0 1 12.5 0.5 Z" fill="#161B26"/>
+<circle cx="22" cy="17.5" r="6" fill="#FF5F57"/><circle cx="41" cy="17.5" r="6" fill="#FEBC2E"/><circle cx="60" cy="17.5" r="6" fill="#28C840"/>
+<text x="430.0" y="22" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#6E7681">10000sukk@localhost: ~ — zsh</text>
+<g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace">
+<text x="32" y="74.0" font-size="13" fill="url(#g)" xml:space="preserve"> ██╗ ██████╗  ██████╗  ██████╗  ██████╗ ███████╗██╗   ██╗██╗  ██╗██╗  ██╗</text>
+<text x="32" y="88.2" font-size="13" fill="url(#g)" xml:space="preserve">███║██╔═████╗██╔═████╗██╔═████╗██╔═████╗██╔════╝██║   ██║██║ ██╔╝██║ ██╔╝</text>
+<text x="32" y="102.4" font-size="13" fill="url(#g)" xml:space="preserve">╚██║██║██╔██║██║██╔██║██║██╔██║██║██╔██║███████╗██║   ██║█████╔╝ █████╔╝ </text>
+<text x="32" y="116.6" font-size="13" fill="url(#g)" xml:space="preserve"> ██║████╔╝██║████╔╝██║████╔╝██║████╔╝██║╚════██║██║   ██║██╔═██╗ ██╔═██╗ </text>
+<text x="32" y="130.8" font-size="13" fill="url(#g)" xml:space="preserve"> ██║╚██████╔╝╚██████╔╝╚██████╔╝╚██████╔╝███████║╚██████╔╝██║  ██╗██║  ██╗</text>
+<text x="32" y="145.0" font-size="13" fill="url(#g)" xml:space="preserve"> ╚═╝ ╚═════╝  ╚═════╝  ╚═════╝  ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝</text>
+<text x="32" y="181.2" font-size="13" fill="#FFB38A" letter-spacing="5">BACKEND ENGINEER</text>
+<text x="32" y="221.2" font-size="15" xml:space="preserve"><tspan fill="#FFB38A" font-weight="700">10000sukk@localhost</tspan><tspan fill="#6E7681">:</tspan><tspan fill="#58A6FF">~</tspan><tspan fill="#6E7681">$ </tspan><tspan fill="#F0F6FC">whoami</tspan></text>
+<text x="32" y="245.2" font-size="15" fill="#C9D1D9" xml:space="preserve">10000sukk · Backend Engineer</text>
+<text x="32" y="281.2" font-size="15" xml:space="preserve"><tspan fill="#FFB38A" font-weight="700">10000sukk@localhost</tspan><tspan fill="#6E7681">:</tspan><tspan fill="#58A6FF">~</tspan><tspan fill="#6E7681">$ </tspan><tspan fill="#F0F6FC">cat career.log</tspan></text>
+<text x="32" y="305.2" font-size="15" fill="#C9D1D9" xml:space="preserve">Daum Cafe  ──&gt;  Ad Recommendation   (5+ yrs)</text>
+<text x="32" y="341.2" font-size="15" xml:space="preserve"><tspan fill="#FFB38A" font-weight="700">10000sukk@localhost</tspan><tspan fill="#6E7681">:</tspan><tspan fill="#58A6FF">~</tspan><tspan fill="#6E7681">$ </tspan><tspan fill="#F0F6FC">cat about.txt</tspan></text>
+<text x="32" y="365.2" font-size="15" fill="#C9D1D9" xml:space="preserve">I work on ad recommendation serving.</text>
+<text x="32" y="389.2" font-size="15" fill="#C9D1D9" xml:space="preserve">I care about systems that are fast, stable, and easy to operate.</text>
+<text x="32" y="413.2" font-size="15" fill="#C9D1D9" xml:space="preserve">I want to be an engineer my team can rely on.</text>
+<text x="32" y="449.2" font-size="15" xml:space="preserve"><tspan fill="#FFB38A" font-weight="700">10000sukk@localhost</tspan><tspan fill="#6E7681">:</tspan><tspan fill="#58A6FF">~</tspan><tspan fill="#6E7681">$ </tspan><tspan fill="#FFB38A" opacity="0.85">█</tspan></text>
+</g>
+</svg>
