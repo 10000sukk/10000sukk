@@ -10,6 +10,12 @@
 
 </div>
 
+<div align="center">
+
+<a href="https://10000sukk.github.io"><img src="https://img.shields.io/badge/Blog-10000sukk.github.io-FFB38A?style=for-the-badge&labelColor=0A0A0C&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTQgMjBoNGwxMS0xMWEyLjggMi44IDAgMCAwLTQtNEw0IDE2djRaIiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg==" alt="Blog" /></a>&nbsp;<a href="https://www.linkedin.com/in/10000sukk/"><img src="https://img.shields.io/badge/LinkedIn-in%2F10000sukk-58A6FF?style=for-the-badge&labelColor=0A0A0C&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0zIDloMy41djEySDN6TTQuNzUgM2EyIDIgMCAxIDEgMCA0IDIgMiAwIDAgMSAwLTRNOSA5aDMuNHYxLjZjLjUtLjkgMS43LTEuOSAzLjYtMS45IDMuNiAwIDQuMyAyLjMgNC4zIDUuNFYyMWgtMy41di02YzAtMS40IDAtMy4zLTItMy4zcy0yLjMgMS42LTIuMyAzLjJWMjFIOXoiLz48L3N2Zz4=" alt="LinkedIn" /></a>
+
+</div>
+
 ---
 
 ## 🧑‍💻 About Me
